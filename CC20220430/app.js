@@ -5,3 +5,9 @@
 // ["Keep", "Remove", "Keep", "Remove", "Keep", ...] --> ["Keep", "Keep", "Keep", ...]
 
 // None of the arrays will be empty, so you don't have to worry about that!
+
+// PREP
+// P: array
+// R: array
+// E: ["Keep", "Remove", "Keep", "Remove", "Keep", ...] --> ["Keep", "Keep", "Keep", ...]
+// P: take array and loop throught array and remove 
