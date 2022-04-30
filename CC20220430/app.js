@@ -11,3 +11,7 @@
 // R: array
 // E: ["Keep", "Remove", "Keep", "Remove", "Keep", ...] --> ["Keep", "Keep", "Keep", ...]
 // P: take array and loop throught array and remove 
+
+function removeEveryOther(arr) {
+    return arr.filter((x, i) => i % 2 == 0)
+  }
